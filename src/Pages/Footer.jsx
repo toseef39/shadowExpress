@@ -119,7 +119,7 @@ export default function Footer() {
                 <div className="w-9 h-9 bg-red-600/20 group-hover:bg-red-600 rounded-full flex items-center justify-center transition-colors shrink-0">
                   <FaPhoneAlt className="text-red-500 group-hover:text-white w-3.5 h-3.5 transition-colors" />
                 </div>
-                <span className="text-sm">+1 343 353 2232</span>
+                <span className="text-sm">+1 647 800 8569</span>
               </a>
               <a href="mailto:info@shadowxpress.com" className="flex items-center gap-3 text-gray-400 hover:text-red-500 transition-colors group">
                 <div className="w-9 h-9 bg-red-600/20 group-hover:bg-red-600 rounded-full flex items-center justify-center transition-colors shrink-0">
