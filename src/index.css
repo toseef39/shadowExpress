@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@utility animate-marquee {
+  animation: marquee 90s linear infinite;
+}
