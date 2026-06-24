@@ -7,7 +7,7 @@ export default function Navbar() {
             <div className='bg-red-500'>
                 <div className='flex'>
                     <div className='flex'>
-                        <div><FaPhoneAlt /> +1 343 353 2232</div>
+                        <div><FaPhoneAlt /> +1 647 800 8569</div>
                         <div>info@shadowxpress.com</div>
                     </div>
                 </div>

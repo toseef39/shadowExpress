@@ -68,7 +68,7 @@ export default function Contact() {
               <h3 className="font-bold text-gray-900 text-lg mb-2">Phone</h3>
               <p className="text-gray-500 text-sm mb-3">Call us anytime</p>
               <a href="tel:+16478008569" className="text-red-600 font-semibold hover:text-red-700 transition-colors">
-                +1 343 353 2232
+                +1 647 800 8569
               </a>
             </motion.div>
 
