@@ -180,7 +180,7 @@ export default function AppointmentLetter() {
             <p style={{ fontSize: "17px", color: "#374151", lineHeight: "1.8", margin: 0 }}>
               511 Rankin Avenue Windsor,<br />
               Ontario Canada<br />
-              +1 (343) 353-2232
+              +1 (647) 800 8569
             </p>
           </div>
           <div>
