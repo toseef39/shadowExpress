@@ -407,7 +407,7 @@ export default function AppointmentLetter() {
             <div style={{ margin: "0 20px 20px", padding: "14px 16px", background: "#fefce8", border: "1px solid #fde047", fontSize: "15px", lineHeight: "1.8" }}>
               <p style={{ fontWeight: "700", margin: "0 0 4px" }}>NOTE!!</p>
               <p style={{ margin: 0 }}>We request you to complete the biometric requirements for your Canada visa process as soon as possible.</p>
-              <p style={{ margin: "4px 0 0" }}>If you have any complaints please Reach our Shadow Express Company. +1 (343) 353-2232</p>
+              <p style={{ margin: "4px 0 0" }}>If you have any complaints please Reach our Shadow Express Company. +1 (647) 800 8569</p>
             </div>
           </div>
         </div>
