@@ -1,14 +1,14 @@
 # Proxy API calls to Railway — browser sees same origin, no CORS
 [[redirects]]
   from = "/api/*"
-  to = "https://shadowexpressbackend-production.up.railway.app/api/:splat"
+  to = "https://astonishing-optimism-production.up.railway.app/api/:splat"
   status = 200
   force = true
 
 # Proxy uploaded files (passport photos, CVs) to Railway
 [[redirects]]
   from = "/uploads/*"
-  to = "https://shadowexpressbackend-production.up.railway.app/uploads/:splat"
+  to = "https://astonishing-optimism-production.up.railway.app/uploads/:splat"
   status = 200
   force = true
 
